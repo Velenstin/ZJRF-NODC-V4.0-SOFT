@@ -1,0 +1,12 @@
+hw2000b_read_reg
+0
+2
+hw2000b_write_fifo
+0
+1
+hw2000b_write_reg
+0
+3
+spi_init
+0
+0
